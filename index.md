@@ -1,8 +1,6 @@
 # 2022 EEV Energy Meter Results
 |Team No.|Team Name|Organisation|Class|Energy kWh|Updated|
 |---:|---|---|---|---:|---|
-|t1|Test Team 1|Test Organisation 1|Test Class 1|0.00|13:41 Thu|
-|t2|Test Team 2|Test Organisation 2|Test Class 2| | |
 |34|Rat Carpet|Bendigo Senior Secondary College|Hybrid 1 OPEN| | |
 |333|Earth Mover|Bendigo Senior Secondary College|Single Power Source| | |
 |45|Griffins|Chairo Christian School - Drouin Campus|Hybrid 1 OPEN| | |
