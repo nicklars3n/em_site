@@ -6,17 +6,17 @@
 |45|Griffins|Chairo Christian School - Drouin Campus|Hybrid 1 OPEN| | |
 |46|Dragons|Chairo Christian School - Drouin Campus|Single Power Source| | |
 |346|Phoenix|Chairo Christian School - Drouin Campus|Single Power Source| | |
-|37|Team 2|Damascus College|Hybrid 1 B/C|0.04|12:45 Sat|
-|38|Team 3|Damascus College|Hybrid 1 OPEN|0.00|12:46 Sat|
-|338|Team 4|Damascus College|Single Power Source|0.00|12:46 Sat|
+|37|Team 2|Damascus College|Hybrid 1 B/C|0.04|12:55 Sat|
+|38|Team 3|Damascus College|Hybrid 1 OPEN|0.00|12:56 Sat|
+|338|Team 4|Damascus College|Single Power Source|0.00|12:56 Sat|
 |1|Xception|Girton Grammar School|Single Power Source| | |
 |36|In-Sync|Girton Grammar School|Hybrid 1 OPEN| | |
-|48|Team 1|Holmesglen Institute of TAFE|Single Power Source|0.51|12:46 Sat|
-|44|ENZO (Holy Cross College)|Holy Cross College Ryde|Hybrid 1 OPEN|0.00|12:46 Sat|
-|43|P.E.T.A (Holy Cross College)|Holy Cross College Ryde|Hybrid 1 OPEN|0.00|12:46 Sat|
-|42|MARK #1. (Holy Cross College)|Holy Cross College Ryde|Hybrid 1 OPEN|-0.00|12:46 Sat|
-|40|Blitz|Overnewton Anglican Community College|Hybrid 1 OPEN|0.00|12:46 Sat|
-|41|The Floppers|Overnewton Anglican Community College|Hybrid 1 OPEN|0.00|12:46 Sat|
-|341|Apollo's Arrow|Overnewton Anglican Community College|Hybrid 1 OPEN|0.00|12:45 Sat|
+|48|Team 1|Holmesglen Institute of TAFE|Single Power Source|0.51|12:56 Sat|
+|44|ENZO (Holy Cross College)|Holy Cross College Ryde|Hybrid 1 OPEN|0.00|12:56 Sat|
+|43|P.E.T.A (Holy Cross College)|Holy Cross College Ryde|Hybrid 1 OPEN|0.00|12:56 Sat|
+|42|MARK #1. (Holy Cross College)|Holy Cross College Ryde|Hybrid 1 OPEN|-0.00|12:56 Sat|
+|40|Blitz|Overnewton Anglican Community College|Hybrid 1 OPEN|0.00|12:56 Sat|
+|41|The Floppers|Overnewton Anglican Community College|Hybrid 1 OPEN|0.00|12:56 Sat|
+|341|Apollo's Arrow|Overnewton Anglican Community College|Hybrid 1 OPEN|0.00|12:56 Sat|
 |39|NIGHT FURY|Trinity Grammar School|Hybrid 1 OPEN| | |
-|47|Mystery Machine|Warracknabeal Secondary College|Hybrid 1 OPEN|0.23|12:46 Sat|
+|47|Mystery Machine|Warracknabeal Secondary College|Hybrid 1 OPEN|0.00|12:56 Sat|
